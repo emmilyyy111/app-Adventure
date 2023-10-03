@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emorgenbesser\\code\\oop-adventure\\oop-adventure\\oop-adventure.csproj": {}
+    "/Users/emilymorgenbesser/code/app-Adventure/oop-adventure/oop-adventure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emorgenbesser\\code\\oop-adventure\\oop-adventure\\oop-adventure.csproj": {
+    "/Users/emilymorgenbesser/code/app-Adventure/oop-adventure/oop-adventure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emorgenbesser\\code\\oop-adventure\\oop-adventure\\oop-adventure.csproj",
+        "projectUniqueName": "/Users/emilymorgenbesser/code/app-Adventure/oop-adventure/oop-adventure.csproj",
         "projectName": "oop-adventure",
-        "projectPath": "C:\\Users\\emorgenbesser\\code\\oop-adventure\\oop-adventure\\oop-adventure.csproj",
-        "packagesPath": "C:\\Users\\emorgenbesser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emorgenbesser\\code\\oop-adventure\\oop-adventure\\obj\\",
+        "projectPath": "/Users/emilymorgenbesser/code/app-Adventure/oop-adventure/oop-adventure.csproj",
+        "packagesPath": "/Users/emilymorgenbesser/.nuget/packages/",
+        "outputPath": "/Users/emilymorgenbesser/code/app-Adventure/oop-adventure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\emorgenbesser\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/emilymorgenbesser/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,8 +43,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }
